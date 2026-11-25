@@ -1,0 +1,26 @@
+# MATLAB / Simulink generated & cache files
+work/
+slprj/
+codegen/
+*.slxc
+*.asv
+*.autosave
+*.mex*
+*.m~
+*.slx.r*
+*.mdl.r*
+
+# Build artifacts & logs
+*.dll
+*.exe
+*.obj
+*.o
+*.lib
+*.a
+*.log
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
