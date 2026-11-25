@@ -13,6 +13,22 @@ The guidance logic in [`perception/minidroneLineFollow.m`](perception/minidroneL
 
 ## Visual Outputs
 
+### 3D environment simulation (`seven_sections` & `L_default`)
+
+![3D environment simulation on seven_sections](media/3d_flight_seven_sections.gif)
+
+- Full-resolution MP4: [`media/3d_flight_seven_sections.mp4`](media/3d_flight_seven_sections.mp4)
+
+![3D environment simulation on L_default](media/3d_flight_L_default.gif)
+
+- Full-resolution MP4: [`media/3d_flight_L_default.mp4`](media/3d_flight_L_default.mp4)
+
+### 2D path & downward camera tracking view (`seven_sections`)
+
+![Offline flight demo on seven_sections](media/offline_flight_seven_sections.gif)
+
+- Full-resolution MP4: [`media/offline_flight_seven_sections.mp4`](media/offline_flight_seven_sections.mp4)
+
 ### Multi-track offline closed-loop simulation
 
 ![Multi-track offline trajectories](media/multi_track_trajectories.png)
@@ -20,10 +36,6 @@ The guidance logic in [`perception/minidroneLineFollow.m`](perception/minidroneL
 ### Downward camera & tracking view overlay
 
 ![Downward camera and tracking view](media/tracking_view_sample.png)
-
-### Offline flight demo (`seven_sections`)
-
-- Video: [`media/offline_flight_seven_sections.mp4`](media/offline_flight_seven_sections.mp4)
 
 ## Offline Verification Results
 
